@@ -18,7 +18,7 @@ I’m excited to share my latest Power BI dashboard, built using the Andhra Prad
 Excited to continue building meaningful dashboards and real-world data solutions!
  If you’d like to explore the dashboard or collaborate on BI projects, feel free to connect. 🤝✨
 hashtag#PowerBI hashtag#DashboardDesign hashtag#TribalPopulation hashtag#AndhraPradesh hashtag#DataVisualization hashtag#BusinessIntelligence hashtag#AnalyticsProject hashtag#DataForGood hashtag#DataAnalysis hashtag#PowerBIProjects
-<img width="1373" height="782" alt="Screenshot 2025-12-09 193146" src="https://github.com/user-attachments/assets/fed33432-169d-4a5a-a8ed-2f33ceb8dde1" />
-<img width="1377" height="775" alt="Screenshot 2025-12-09 193002" src="https://github.com/user-attachments/assets/7e64bec6-b97e-4271-abe4-e22b45dd3d64" />
 <img width="1340" height="782" alt="Screenshot 2025-12-09 192914" src="https://github.com/user-attachments/assets/72efba38-d37b-474f-be99-6d843178f719" />
+<img width="1377" height="775" alt="Screenshot 2025-12-09 193002" src="https://github.com/user-attachments/assets/7e64bec6-b97e-4271-abe4-e22b45dd3d64" />
+<img width="1373" height="782" alt="Screenshot 2025-12-09 193146" src="https://github.com/user-attachments/assets/fed33432-169d-4a5a-a8ed-2f33ceb8dde1" />
 <img width="1373" height="774" alt="Screenshot 2025-12-09 193220" src="https://github.com/user-attachments/assets/459e4363-80ef-4069-9633-d5bc06ab95c5" />
